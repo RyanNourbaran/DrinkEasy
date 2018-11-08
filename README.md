@@ -1,5 +1,6 @@
 # DrinkEasy
-order drinks with a click of a button
+Order drinks with a click of a button on your phone!
+Pay for it easily via Interac API!
 
 
 ### How to run
