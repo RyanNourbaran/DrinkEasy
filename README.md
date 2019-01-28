@@ -1,10 +1,10 @@
-##Inspiration
+## Inspiration
 Knowing problems that we face as millennial we wanted to find a unique way to combine our love for technology with our demand for instant gratification. We had the idea long before coming to the hackathon but after coming and being inspired by the introductions of both Interac and RBC we wanted to create an application that would combine the challenges they gave us.
 
-##What It Does
+## What It Does
 DrinkEasy allows you to efficiently pay for and keep track of drink and drink related purchases. 
 
-##How We Built It
+## How We Built It
 DrinkEasy combines a REST API with the payment services offered by Interac, coupled with a powerful React framework. 
 
 ## Challenges we faced
